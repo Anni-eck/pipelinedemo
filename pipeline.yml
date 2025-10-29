@@ -7,4 +7,4 @@ pool:
 steps:
 - task: CmdLine@2
   inputs:
-    script: 'whoami'
+    script: echo "Anniek was here"
